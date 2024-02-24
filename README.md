@@ -1,1 +1,1 @@
-# modelosdenavegacao-rn
+# Modelo de Navegação com RN Navigation
